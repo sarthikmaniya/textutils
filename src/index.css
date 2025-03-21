@@ -1,0 +1,3 @@
+.accordion-botton::after{
+    filter: invert(1);
+}
